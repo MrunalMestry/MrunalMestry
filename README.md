@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrunalMestry
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning DSA
+- 👀 I’m learning Data Science
+- 🌱 I’m currently Practicing SQL
 - 📫 How to reach me ... mmmrunal0@gmail.com
 
 <!---
