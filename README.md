@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrunalMestry
 - 👀 I’m learning Data Science
-- 🌱 I’m currently Practicing SQL
+- 🌱 I’m currently working as a Senior Web Developer
 - 📫 How to reach me ... mmmrunal0@gmail.com
 
 <!---
